@@ -112,5 +112,4 @@ class testSelectionSort {
 
        sort.basicSelectionSort(arr);
        assertEquals(Sortedarr[0], arr[0]);
-
     }
